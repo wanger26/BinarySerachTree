@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/bst.c
+stdio.h
+-
+stdlib.h
+-
+bst.h
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/bst.h
+
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/bst.h
+data.h
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/data.h
+
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/data.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/data.h
+
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/data.h
+
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/main.c
+stdio.h
+-
+bst.h
+C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/bst.h
+

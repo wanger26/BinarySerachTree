@@ -1,0 +1,39 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_df067/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_df067.dir\build.make CMakeFiles/cmTC_df067.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_df067.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_df067.dir\testCCompiler.c.obj   -c "C:\Users\Owner\OneDrive - The University of Western Ontario\Year 2\Comp Sci 2211\Projects\Assignment 4\Part One\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_df067.exe
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_df067.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_df067.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_df067.dir/objects.a @CMakeFiles\cmTC_df067.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_df067.dir/objects.a -Wl,--no-whole-archive  -o cmTC_df067.exe -Wl,--out-implib,libcmTC_df067.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_df067.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Owner/OneDrive - The University of Western Ontario/Year 2/Comp Sci 2211/Projects/Assignment 4/Part One/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
